@@ -5,6 +5,8 @@ VisualStudioVersion = 17.10.35004.147
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LaptopDiscount", "LaptopDiscount\LaptopDiscount.csproj", "{4C293A69-4638-4924-AADB-61A3543A9843}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LaptopDiscountTests", "LaptopDiscountTests\LaptopDiscountTests.csproj", "{2F1D42B3-43BF-459F-B999-93E178AB6B4F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{4C293A69-4638-4924-AADB-61A3543A9843}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4C293A69-4638-4924-AADB-61A3543A9843}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4C293A69-4638-4924-AADB-61A3543A9843}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F1D42B3-43BF-459F-B999-93E178AB6B4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F1D42B3-43BF-459F-B999-93E178AB6B4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F1D42B3-43BF-459F-B999-93E178AB6B4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F1D42B3-43BF-459F-B999-93E178AB6B4F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
